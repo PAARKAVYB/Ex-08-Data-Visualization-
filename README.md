@@ -290,7 +290,8 @@ plt.show()
 ![output](o0.png)
 
 ### CLEANED DATASET:
-![output](O1.png)
+![o1](https://user-images.githubusercontent.com/93509383/172284988-b5929226-b7b4-4556-ba3e-d62ed76b3817.png)
+
 ![output](o2.png)
 
 ### REMOVING OUTLIERS:
@@ -304,7 +305,8 @@ plt.show()
 ![output](o8.png)
 ![output](o9.png)
 ![output](o10.png)
-![output](o11.png)
+![011](https://user-images.githubusercontent.com/93509383/172285023-fc10f4be-d6f7-4668-a39d-9eeae34433be.png)
+
 
 ### BAR PLOT:
 ![output](o12.png)
